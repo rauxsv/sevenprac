@@ -1,0 +1,43 @@
+{
+    "hello": "Жіберу",
+    "register_form": "Тіркеу нысаны",
+    "full_name": "Толық аты",
+    "what_do_people_call_you": "Сені адамдар қалай атайды?",
+    "phone_number": "Телефон нөмірі",
+    "where_can_we_reach_you": "Сізбен қайда байланыса аламыз?",
+    "enter_phone_format": "Телефон пішімі: (XXX)XXX-XXXX",
+    "phone_number_format_hint": "Телефон нөмірі келесідей енгізілуі керек (###)###-####",
+    "email_address": "Электрондық пошта мекенжайы",
+    "enter_email_address": "Электрондық пошта мекенжайын енгізіңіз",
+    "country": "Ел",
+    "life_story": "Өмір тарихы",
+    "tell_us_about_yourself": "Өзіңіз туралы айтыңыз",
+    "keep_it_short": "Қысқасы, бұл жай ғана демонстрация",
+    "password": "Құпия сөз",
+    "enter_password": "Құпия сөзді енгізіңіз",
+    "confirm_password": "Құпия сөзді растаңыз",
+    "confirm_password_hint": "Құпия сөзді растаңыз",
+    "form_not_valid": "Пішін жарамсыз! Қарап шығыңыз және түзетіңіз",
+    "name_required": "Аты міндетті.",
+    "enter_alphabetical_characters": "Алфавит әріптерін енгізіңіз.",
+    "email_empty": "Адрес электронной почты не может быть пустым",
+    "invalid_email": "Электрондық пошта мекенжайы дұрыс емес",
+    "name": "Аты",
+    "phone": "Телефон",
+    "email": "Электрондық пошта",
+    "eight_character_required": "құпия сөзді енгізу үшін 8 таңба қажет",
+    "password_mismatch": "Құпия сөз сәйкес келмейді",
+    "registration_successful": "Тіркеу сәтті өтті",
+    "verified_register_form": "енді бұл тексерілген тіркеу формасы",
+    "verified": "Тексерілген",
+    "user_info": "Пайдаланушы туралы ақпарат",
+    "not_specified": "Көрсетілмеген",
+    "russia": "Ресей",
+    "ukraine": "Украина",
+    "germany": "Германия",
+    "france": "Франция"
+
+
+
+
+}
